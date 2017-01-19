@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/07/31 17:25:37.000.482,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/22 18:33:42.000.647,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/10/28 10:46:42.000.579,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/12/07 14:32:17.000.125,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/01/13 16:29:37.000.128,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/02/17 19:09:54.000.172,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/03/02 10:57:38.000.606,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/04/19 12:13:08.000.560,=\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2016/04/19 14:43:41.000.553,\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.fmx=\\vmware-host\Shared Folders\Documents\study\d10\MutilLanguage\uMain.fmx</Transaction>
+    <Transaction>2016/04/19 14:43:41.000.553,\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Unit3.pas=\\vmware-host\Shared Folders\Documents\study\d10\MutilLanguage\uMain.pas</Transaction>
+    <Transaction>2016/04/19 14:44:53.000.251,\\vmware-host\Shared Folders\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\vmware-host\Shared Folders\Documents\study\d10\MutilLanguage\MutilLang.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PmacMini iOSSimulator="iPhone5" iOSDevice32="_iosdevice_03d87bfb18fded4af3021b590737a4d14fac2f1d"/>
+		<NoProfile Android="0a45eddf"/>
+	</ActiveMobileDevice>
+</BorlandProject>
